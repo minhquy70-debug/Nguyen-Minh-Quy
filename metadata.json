@@ -1,0 +1,8 @@
+{
+  "name": "Logistics & Forecasting Academy",
+  "description": "A comprehensive learning portal for Logistics and Forecasting Techniques featuring lectures, practical exercises in Excel/Matlab, and AI-driven support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
